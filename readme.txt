@@ -6,4 +6,5 @@ this is the third version
 
 i create a new branch
 
-masterboth
+both
+
